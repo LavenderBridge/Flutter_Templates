@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:web_blig/ProfilePage/Configs/configs.dart';
+import 'package:web_blig/Configs/configs.dart';
 
 class NavigatePage extends StatelessWidget {
   const NavigatePage({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:web_blig/ProfilePage/Configs/configs.dart';
+import 'package:web_blig/Configs/configs.dart';
 import 'package:web_blig/ProfilePage/Pages/PlaceholderPage.dart';
 import 'package:web_blig/ProfilePage/Pages/Widgets/MenuCard.dart';
 
